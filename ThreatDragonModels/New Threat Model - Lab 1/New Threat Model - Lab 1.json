@@ -5,7 +5,7 @@
   "summary": {
     "title": "New Threat Model - Lab 1",
     "owner": "",
-    "description": "",
+    "description": "Car sharing is a model of car rental where people rent cars for short periods of time, often by the\nhour [4].\n• Customers can have a membership in a car share or they may rent a car without a membership.\nThe latter is more expensive.\n• Next generation car sharing will utilize self-driving cars where members can use their smart\nphones to (pre)order cars and select routes and destinations.\n• Self-driving cars may be scheduled centrally based on efficient selection of routes and ordered\ndestinations.\n• Customers pay for their use of the cars based on a combination of mileage and time (duration)\nof usage, and based on whether they have a membership or not.\n• Routes ordered by customers are considered confidential, as well as their identity and banking\ninformation.\n• Customer credit cards get charged right after their ride ends.\n• Cars have maps and driving parameters that are downloaded from a central server for offline\nuse (in areas where there is no reliable mobile internet).\n• Cars need to be maintained regularly. They can be called in for maintenance by certified\nmaintenance personnel. That personnel may order test drives that are (of course) not paid\nfor. The maintenance personnel may also change drive parameters like the brake force applied\n(if different brake pads are used), and maximum allowable acceleration and curve velocity\n(based on tire condition etc.).",
     "id": 0
   },
   "detail": {
